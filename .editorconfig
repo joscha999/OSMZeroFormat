@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# RCS1032: Remove redundant parentheses.
+dotnet_diagnostic.RCS1032.severity = none
